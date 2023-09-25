@@ -41,6 +41,7 @@ Alternatively, you can accomplish this without manually searching for folders by
 - Run the application with administrator privileges<br>
 
 <h2>🔰 How to Build the Program?</h2>
+In you don't want to build the project, you can find it already built <a href="https://github.com/JayW24/MetroExodus_SaveFix">here</a>
 
 <h2>🎃 Author note:</h2>
 ➜ This program has been entirely developed by me, although it was inspired by the following project: <a href="https://github.com/JayW24/MetroExodus_SaveFix">CLICK</a>
