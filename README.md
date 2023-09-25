@@ -17,7 +17,7 @@
 ➜ After launching the program, you need to enter the path to the folder containing the game saves.
 <br>- How to get Path?<br>
 1. Open windows "Run" Dialog BOX (WIN + R)<br>
-2. Enter following text:<br>
+2. Enter following text:<br><br>
 
 ```sh
 %userprofile%
