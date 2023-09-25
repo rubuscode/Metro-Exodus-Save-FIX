@@ -49,7 +49,7 @@ In you don't want to build the project, you can find it already built <a href="h
 ➜ Building the project<br>
 1. Download and extract the project<br>
 2. Go to the main folder and open the terminal (CMD) in that path<br>
-3. Enter the following command:
+3. Enter the following command:<br><br>
 
 ```sh
 cargo build
