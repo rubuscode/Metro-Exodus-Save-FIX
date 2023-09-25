@@ -33,6 +33,13 @@ Alternatively, you can accomplish this without manually searching for folders by
 ```sh
 %userprofile%\Saved Games\Metro Exodus
 ```
+<h2>✨ What if ...?</h2>
+➜ I don't have a folder with my ID
+- Try to reference the parent folder
+➜ The application doesn't want to start for me
+- Turn off your antivirus program
+- Run the application with administrator privileges
+
 <h2>🔰 How to Build the Program?</h2>
 
 <h2>🎃 Author note:</h2>
