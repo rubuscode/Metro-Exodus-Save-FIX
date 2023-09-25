@@ -28,7 +28,7 @@
 
 <image src="https://media.discordapp.net/attachments/1029109218625736795/1155832339881013318/image.png">
 
-Alternatively, you can accomplish this without manually searching for folders by using the command (not recommended):
+Alternatively, you can accomplish this without manually searching for folders by using the command (not recommended):<br><br>
 
 ```sh
 %userprofile%\Saved Games\Metro Exodus
