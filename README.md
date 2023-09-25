@@ -8,6 +8,8 @@
   1. Open Steam.
   2. Right-click on Metro Exodus.
   3. Click "Properties."
-  4. In the "General" tab, uncheck "Preserve saved games in Steam Cloud for Metro Exodus" in the "STEAM CLOUD" subtab.
+  4. In the 'General' tab,
+  navigate to the 'STEAM CLOUD' subtab and proceed to disable
+  the option named 'Preserve saved games in Steam Cloud for Metro Exodus.'
 }
 ```
