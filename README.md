@@ -41,7 +41,7 @@ Alternatively, you can accomplish this without manually searching for folders by
 - Run the application with administrator privileges<br>
 
 <h2>🔰 How to Build the Program?</h2>
-In you don't want to build the project, you can find it already built <a href="https://github.com/JayW24/MetroExodus_SaveFix">here</a>.<br>
+In you don't want to build the project, you can find it already built <a href="https://github.com/rubuscode/Metro-Exodus-Save-FIX/releases/download/1.0/save_fix.exe">here</a>.<br>
 ➜ RUST Installation<br>
 1. Download Installer for <a href="https://static.rust-lang.org/rustup/dist/x86_64-pc-windows-msvc/rustup-init.exe">x64</a>, or <a href="https://static.rust-lang.org/rustup/dist/i686-pc-windows-msvc/rustup-init.exe">x86</a> bits<br>
 2. Complete the installation following the steps<br>
@@ -54,7 +54,7 @@ In you don't want to build the project, you can find it already built <a href="h
 ```sh
 cargo build
 ```
-✅ After entering this command, an executable (EXE) file should appear in the 'target' folder, ready to run.
+✅ After entering this command, an executable (EXE) file should appear in the 'target/debug' folder, ready to run.
 
 <h2>🎃 Author note:</h2>
 ➜ This program has been entirely developed by me, although it was inspired by the following project: <a href="https://github.com/JayW24/MetroExodus_SaveFix">CLICK</a><br>
