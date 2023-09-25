@@ -13,7 +13,19 @@
   the option named 'Preserve saved games in Steam Cloud for Metro Exodus.'
 }
 ```
-<h2>💜 How to Use the Program:</h2>
-➜ After launching the program, you need to enter the path to the folder containing the game saves
+<h2>💜 How to Use the Program?</h2>
+➜ After launching the program, you need to enter the path to the folder containing the game saves.
+- How to get Path?
+1. Open windows "Run" Dialog BOX (WIN + R)
+2. Enter following text:
 
-<h2>🔰 How to Build the Program:</h2>
+```sh
+%userprofile%
+```
+3. Now, proceed to the 'Saved Games' folder (note that 'saved games' may vary depending on your system's language)
+4. Now, navigate to the 'Metro Exodus' folder, and then enter the folder with a large number of digits (which represents your unique ID)
+5. Copy the path to this folder (a sample path is provided in the image below)
+
+<image src="https://media.discordapp.net/attachments/1029109218625736795/1155832339881013318/image.png">
+
+<h2>🔰 How to Build the Program?</h2>
