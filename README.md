@@ -13,3 +13,7 @@
   the option named 'Preserve saved games in Steam Cloud for Metro Exodus.'
 }
 ```
+<h2>💜 How to Use the Program:</h2>
+➜ After launching the program, you need to enter the path to the folder containing the game saves
+
+<h2>🔰 How to Build the Program:</h2>
