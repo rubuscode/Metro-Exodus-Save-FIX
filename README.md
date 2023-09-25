@@ -10,3 +10,7 @@
   4. In the "General" tab, uncheck "Preserve saved games in Steam Cloud for Metro Exodus" in the "STEAM CLOUD" subtab.
 }
 ```
+
+```sh
+node app
+```
