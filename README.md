@@ -33,5 +33,7 @@ Alternatively, you can accomplish this without manually searching for folders by
 ```sh
 %userprofile%\Saved Games\Metro Exodus
 ```
-
 <h2>🔰 How to Build the Program?</h2>
+
+<h2>🎃 Author note:</h2>
+➜ This program has been entirely developed by me, although it was inspired by the following project: ![CLICK](https://github.com/JayW24/MetroExodus_SaveFix)
