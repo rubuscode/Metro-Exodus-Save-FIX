@@ -16,8 +16,8 @@
 <h2>💜 How to Use the Program?</h2>
 ➜ After launching the program, you need to enter the path to the folder containing the game saves.
 <br>- How to get Path?<br>
-1. Open windows "Run" Dialog BOX (WIN + R)
-2. Enter following text:
+1. Open windows "Run" Dialog BOX (WIN + R)<br>
+2. Enter following text:<br>
 
 ```sh
 %userprofile%
@@ -34,11 +34,11 @@ Alternatively, you can accomplish this without manually searching for folders by
 %userprofile%\Saved Games\Metro Exodus
 ```
 <h2>✨ What if ...?</h2>
-➜ I don't have a folder with my ID
-- Try to reference the parent folder
-➜ The application doesn't want to start for me
-- Turn off your antivirus program
-- Run the application with administrator privileges
+➜ I don't have a folder with my ID<br>
+- Try to reference the parent folder<br>
+➜ The application doesn't want to start for me<br>
+- Turn off your antivirus program<br>
+- Run the application with administrator privileges<br>
 
 <h2>🔰 How to Build the Program?</h2>
 
