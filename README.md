@@ -14,7 +14,7 @@
 }
 ```
 <h2>💜 How to Use the Program?</h2>
-➜ After launching the program, you need to enter the path to the folder containing the game saves.
+➜ After launching the program, you need to enter the path to the folder containing the game saves.<br>
 - How to get Path?
 1. Open windows "Run" Dialog BOX (WIN + R)
 2. Enter following text:
